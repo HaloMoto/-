@@ -1,6 +1,6 @@
 # Java
 
-##数据类型
+## 数据类型
 
 ### 引用类型
 
@@ -8,7 +8,7 @@
 - Arrays
 - Interfaces
 
-###基本类型
+### 基本类型
 
 boolean
 
@@ -37,6 +37,44 @@ void
 constructor（构造器）
 
 garbage collector（垃圾回收器）
+
+## 访问控制
+
+package（包）
+
+public
+
+private
+
+protected
+
+## 重用类
+
+composition（组合）
+
+inheritance（继承）
+
+super
+
+name hiding（名称隐藏）
+
+incremental development（增量式开发）
+
+upcasting（向上转换）
+
+final
+
+has-a
+
+is-a
+
+## Polymorphism(多态)
+
+Early Function Call Binding
+
+dynamic binding or run-time binding
+
+Extensibility
 
 
 
