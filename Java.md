@@ -76,6 +76,118 @@ dynamic binding or run-time binding
 
 Extensibility
 
+Downcasting（向下转型）
+
+Run-Time Type Identification
+
+Class object
+
+Reflection:runtime class information
+
+## Abstract Class Interface(抽象类接口)
+
+Abstract Classes
+
+interface & implements 
+
+Extending an interface with inheritance
+
+functional interface
+
+Default Methods
+
+Grouping constants
+
+## Generic
+
+Generic Pair Class
+
+autoboxing
+
+unboxing
+
+Parameterized Types
+
+Raw types
+
+Bounded Type Parameters
+
+wildcards
+
+## Inner Classes
+
+.this
+
+static nested classes
+
+local classes
+
+Anonymous inner classes
+
+Shadowing
+
+## Error Handling with Exceptions
+
+try
+
+catch
+
+throw
+
+throws
+
+finally
+
+Throwable
+
+Types of program Exceptions/Errors
+
+Exception inheritance hierarchy
+
+Checked vs. Runtime Exception
+
+Throwing Checked Exceptions
+
+Throwing Runtime Exceptions
+
+Exception enforcement
+
+BAD Exception Handling
+
+Debugging/Bug-prevention
+
+try-with-resources
+
+multi-catch
+
+Exception guidelines 
+
+## Arrays
+
+One-Dimensional Arrays
+
+Two-Dimensional Arrays
+
+Ways of initialized & assigned
+
+Containers of primitives
+
+Array as a Parameter
+
+Returning an array
+
+Filling an array
+
+Copying an array
+
+Comparing arrays
+
+Array element comparisons
+
+Sorting an array
+
+## String
+
 
 
 ## 一般概念
@@ -93,6 +205,7 @@ Extensibility
 - continue
 - switch
 - Method overloading（方法重载）
+- decoupling
 
 
 
