@@ -188,6 +188,154 @@ Sorting an array
 
 ## String
 
+String Constructors
+
+String Methods
+
+Strings->Numbers
+
+String Comparison
+
+StringJoiner
+
+StringBuilder
+
+StringTokenizer
+
+Regular Expressions
+
+Regex
+
+Pattern
+
+Matcher
+
+## Collections of Objects
+
+collection
+
+List interface
+
+Set
+
+SortedSet
+
+Queue & Deque
+
+Map
+
+SortedMap
+
+Container taxonomy
+
+Iterable
+
+Collection functionality
+
+List<E> functionality
+
+ArrayList and LinkedList
+
+ArrayList in a program
+
+LinkedList in a program
+
+making a stack from a LinkedList
+
+Making a queue from a LinkedList
+
+Comparison to Vector
+
+PriorityQueue
+
+Set functionality
+
+SortedSet<E> interface
+
+NavigableSet<E> interface
+
+Map<K,V> interface
+
+Map Details
+
+Accessing all members of Map
+
+SortedMap
+
+LinkedHashMap
+
+Hashing and hash codes
+
+Understanding hashCode()
+
+Holding references
+
+Iterators
+
+Choosing an implementation
+
+Sorting and searching Lists
+
+Making a Collection or Map unmodifiable
+
+Synchronizing a Collection or Map
+
+Unsupported operations
+
+Type Conversion
+
+## The Java I/O System
+
+java.io.File and Scanner
+
+Stream
+
+Stream Hierarchy
+
+Using input Streams
+
+Using output streams
+
+Filtered streams
+
+Readers & Writers
+
+InputStreamReader
+
+BufferedReader
+
+Added functionality
+
+Buffer Files
+
+Reading from a file
+
+Input from Memory
+
+Formatted Memory input
+
+I/O from the command line
+
+Basic file output
+
+PrintWriter
+
+Storing and Recovering Data
+
+RandomAccessFile
+
+Piped Streams
+
+Object Serialization
+
+classes used for serialization
+
+Making your classes serializable
+
+Transient variables
+
+I/O exception
+
 
 
 ## 一般概念
