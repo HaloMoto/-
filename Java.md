@@ -336,6 +336,162 @@ Transient variables
 
 I/O exception
 
+## Concurrency
+
+Parallel Processing
+
+Java Thread
+
+What is a Thread?
+
+Tread use
+
+A multithreaded program
+
+The Thread object
+
+Thread Creation diagram
+
+Runnable interface
+
+java.util.concurrent.Callable<V>
+
+Thread Lifecycle
+
+Blocking Threads
+
+Sleeping
+
+Thread scheduling
+
+Yielding（让步）
+
+Daemon threads
+
+Joining a thread
+
+Catching exceptions
+
+Thread starvation
+
+Thread Priorities: General strategies
+
+Race conditions
+
+Thread Synchronization
+
+Thread deadlock
+
+Wait and notify
+
+Wait/Notify sequence
+
+ForkJoin framework
+
+Incrementor
+
+## Graphic User Interface
+
+AWT(Abstract Windowing Toolkit)
+
+Java Foundation classes
+
+Swing = Lightweight
+
+Swing = Consistent
+
+JButton
+
+JLabel
+
+JPanel
+
+JMunu
+
+JMenuBar
+
+SwingSet
+
+JFrame
+
+JFrame Closing Behaviors
+
+Using RootPaneContainer
+
+JDialog
+
+JWindow 
+
+JApplet
+
+JInternalframe
+
+#### GUI Helper Classes
+
+Dimension
+
+Font
+
+FontMetrics
+
+Color
+
+Graphics
+
+#### Swing GUI Components
+
+JButton
+
+JCheckBox
+
+JRatioButton
+
+JTextField
+
+JPasswordField
+
+JTextArea
+
+JLabel 
+
+JList
+
+JComboBox
+
+JPanel
+
+JOptionPane
+
+JScrollBar
+
+JSlider
+
+------
+
+JOptionPane
+
+JSlider
+
+JProgressBar
+
+JToolTip
+
+Tabbed Pane
+
+JEditorPane
+
+Split pane
+
+Event Support
+
+Event Actions
+
+Actions
+
+Actions Implemented
+
+Text Actions
+
 
 
 ## 一般概念
@@ -366,3 +522,11 @@ decimal（十进制）
 hexadecimal（十六进制）
 
 octal（八进制）
+
+# 操作系统
+
+Four conditions of deadlock
+
+Avoiding deadlock
+
+Atomicity and volatility
