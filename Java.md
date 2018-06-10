@@ -492,6 +492,208 @@ Actions Implemented
 
 Text Actions
 
+Listener & Action of JTextField
+
+Listener & Action of JEditorPane
+
+Key Strokes
+
+Model/View/Controller
+
+Swing and MVC
+
+Delegate/Model View
+
+JTree
+
+JList
+
+JComboBox
+
+JTable
+
+JTable Output
+
+Swing's Threading Policy
+
+lengthy GUI-interaction tasks
+
+Setting up the CelsiusConverter project
+
+Adding the Application Logic
+
+## GUI - RUNNING IN BROWSERS
+
+Applet
+
+Java Applet Features
+
+Applet Life Cycle
+
+Java Network Launching Protocol(JNLP)
+
+Java Web Start
+
+JavaFX GUI framework
+
+Structure of a JavaFX Program
+
+Panes, UI Controls, and Shapes
+
+CSS styles
+
+## JDBC
+
+JDBC(Java Database Connectivity)
+
+JDBC Architecture
+
+Four ways to access a database
+
+The four types of Java drivers
+
+Popular JDBC database URL formats
+
+DBMS
+
+Typical JDBC Programming Procedure
+
+Driver Manager
+
+Connecting to and Querying a Database
+
+Wrap into DisplayAuthors
+
+Querying the books Database
+
+JDBC APIs in java.sql package
+
+Java Types vs. SQL Types
+
+Time
+
+Transactions
+
+JDBC Class Diagram
+
+Stored Procedures
+
+JDBC Data Source Architecture
+
+## Java Network Programming 
+
+### Socket
+
+Internet Architecture
+
+TCP/IP stack
+
+Client/Server Communication Paradigm
+
+Socket Programming API
+
+What APIs Needed?
+
+Socket: Conceptual View
+
+Java Socket Programming API
+
+Addressing
+
+Making TCP Connections
+
+TCP Socket
+
+Sending/Receiving Datagram Packets via UDP
+
+UDP Socket
+
+UDP DatagramPacket
+
+Locating/Identifying Network Resources
+
+Security
+
+Establishing a Simple Server Using Stream Sockets
+
+Java Socket Programming Flows(TCP)
+
+Java Socket Programming (UDP)
+
+Compiling and Running 
+
+Iterative server
+
+Concurrent server
+
+Client/Server Interaction with Stream Socket Connections
+
+## functional-style programming and Lambdas,streams
+
+### Functional-style programming
+
+### Lambda expressions
+
+Syntax:->
+
+Method and lambda equivalent
+
+Processing a collection
+
+Reduced lambda syntax
+
+### Ideal use case for lambda expressions
+
+Scenario
+
+members
+
+1:Create Methods that search for members that match one characteristic
+
+2:Create More generalized search methods
+
+3:Specify search criteria code in a local class
+
+4: Specify Search Criteria Code in an Anonymous Class
+
+5: Specify Search Criteria Code with a Lambda Expression
+
+6: Use Standard Functional Interfaces with Lambda Expressions
+
+7: Use Lambda Expressions Throughout Your Application
+
+8: Use Generics More Extensive
+
+9: Use Aggregate Operations That Accept Lambda Expressions as Parameters
+
+#### aggregate operations
+
+filter
+
+map
+
+forEach
+
+#### Lambda expressions in GUI Application
+
+#### Accessing Local Variables of the enclosing scope
+
+#### Target Typing
+
+Target Types and Method arguments
+
+::Method Reference
+
+### Streams
+
+Filters, maps and reductions
+
+A pipeline of operations
+
+Pipelines
+
+Removal from a collection using a predicate lambda
+
 
 
 ## 一般概念
