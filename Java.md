@@ -942,6 +942,26 @@ HashSet里的add(), size()
 
 Collections里的reverse(), shuffle(), sort(), swap(), rotate(), synchronizedList(), 
 
+Class里的forName()
+
+DriveManager里的getConnection()
+
+Connection里的createStatement(), close()
+
+Statement里的executeQuery(), close()
+
+ResultSet里的getMetaData(), close()
+
+ResultSetMetaData里的getColumnCount(), getColumnName()
+
+SQLException
+
+ClassNotFoundException
+
+ServerSocket里的accept(), close()
+
+Socket里的getInputStream(), getOutputStream(), close()
+
 ## 一般概念
 
 - 字面量
@@ -982,3 +1002,10 @@ Atomicity and volatility
 # 数据结构
 
 二叉树排序：插入数据，
+
+# SQL
+
+select ... from ...
+
+distinct
+
