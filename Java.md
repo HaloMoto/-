@@ -158,6 +158,8 @@ Debugging/Bug-prevention
 
 try-with-resources
 
+AutoCloseable
+
 multi-catch
 
 Exception guidelines 
@@ -900,6 +902,46 @@ JTable里的getColumnModel()
 
 JScrollPane
 
+File里的getAbsolutePath(), exists(), isDirectory(), isFile(), length(), lastModified(), setLastModified, renameTo(),  list(), listFiles(), getParent(), getParentFile(), mkdir(), mkdirs(), createNewFile(), getParentFile().mkdirs(), listRoots(), delete()
+
+FileInputStream里的read(), close()
+
+FileOutputStream里的write(), close()
+
+FileReader里的read()
+
+FileWriter里的write()
+
+String里的toCharArray(), length
+
+BufferedReader里的readLine(),
+
+PrintWriter里的flush()
+
+DataInputStream里的readBoolean(), readInt(), readUTF()
+
+DataOutputStream里的writeBoolean(), writeInt(), writeUTF()
+
+ObjectOutputStream里的writeObject()
+
+ObjectInputStream里的readObject()
+
+System.in
+
+Scanner里的nextLine(), nextInt()
+
+ArrayList里的add(), size(), contains(), get(), indexOf(), remove(), set(), toArray(), addAll(), clear()
+
+LinkedList里的addFirst(), addLast(), getFirst(), getLast(), removeFirst(), removeLast()
+
+Queue里的offer(), poll(), peek()
+
+HashMap里的put(), get(), clear(), size()
+
+HashSet里的add(), size()
+
+Collections里的reverse(), shuffle(), sort(), swap(), rotate(), synchronizedList(), 
+
 ## 一般概念
 
 - 字面量
@@ -936,3 +978,7 @@ Four conditions of deadlock
 Avoiding deadlock
 
 Atomicity and volatility
+
+# 数据结构
+
+二叉树排序：插入数据，
