@@ -710,6 +710,8 @@ hasNext()
 
 next()
 
+remove()
+
 getKey()
 
 getValue()
@@ -782,6 +784,8 @@ Calendar.getTime()
 
 Calendar.setTime()
 
+Calendar里的add()和set()
+
 Runnable
 
 Thread里的start()
@@ -814,6 +818,8 @@ ImageIcon
 
 setIcon()
 
+ImageIcon的getIconWidth()和getIconHeight()
+
 addMouseListener()
 
 MouseListener
@@ -832,6 +838,12 @@ Random
 
 nextInt()
 
+isVisible()
+
+setVisible()
+
+KeyEvent里的getKeyCode()
+
 mouseExited()
 
 addKeyListener()
@@ -844,7 +856,49 @@ KeyEvent
 
 KeyPressed()
 
+JDialog里的setModal()
 
+JButton里的setPreferredSize()
+
+Dimension
+
+BorderLayout()
+
+JLabel里的setForeground()
+
+ButtonGroup
+
+bCheckBox里的setSelected()
+
+JOptionPane里的showConfirmDialog(), showInputDialog(), showMessageDialog()
+
+JPasswordField里的getPassword()
+
+JTextArea里的append(), setLineWrap()
+
+JProgressBar里的setMaximum(), setValue(), setStringPainted()
+
+JPanel里的setBackground()
+
+JSplitPane里的setDividerLocation(), JSplitPane.HORIZONTAL_SPLIT
+
+JFrame里的setContentPane()
+
+JTabbedPane里的setTitleAt(), setIconAt()
+
+JMenuBar
+
+JMenu以及JMenu里的addSeparator()
+
+JMenuItem
+
+JFrame里的setJMenuBar()
+
+JToolBar
+
+JTable里的getColumnModel()
+
+JScrollPane
 
 ## 一般概念
 
