@@ -912,6 +912,8 @@ FileReader里的read()
 
 FileWriter里的write()
 
+InputStreamReader
+
 String里的toCharArray(), length
 
 BufferedReader里的readLine(),
@@ -961,6 +963,12 @@ ClassNotFoundException
 ServerSocket里的accept(), close()
 
 Socket里的getInputStream(), getOutputStream(), close()
+
+DatagramSocket里的receive()
+
+DatagramSocket里的send()
+
+
 
 ## 一般概念
 
