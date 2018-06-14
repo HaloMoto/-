@@ -1363,6 +1363,30 @@ Frame Relay
 
 ATM
 
+## Data and Computer Communications
+
+Routing in Packet Switched Network
+
+Performance Criteria
+
+Decision Time and Place
+
+Network Information Source and Update Timing
+
+Routing Strategies - Fixed Routing
+
+Fixed Routing Tables
+
+Routing Strategies - Flooding
+
+Properties of Flooding
+
+Routing Strategies - Random Routing
+
+Routing Strategies - Adaptive Routing
+
+Classification of Adaptive Routing Startegies
+
 # 数学建模算法总结
 
 ### 蒙特卡洛算法
