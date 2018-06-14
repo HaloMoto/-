@@ -1303,6 +1303,66 @@ select ... from ...
 
 distinct
 
+# 计算机网络
+
+## Circuit Switching and Packet Switching
+
+广域网 WAN (Wide Area Network)
+
+局域网 LAN (Local Area Network)
+
+城域网 MAN (Metropolitan Area Network)
+
+Switched Network
+
+Nodes
+
+Station
+
+Switching
+
+Public Circuit Switched Network
+
+Circuit Establishment
+
+blocking network
+
+non-blocking network
+
+Space Division Switch
+
+3 Stage Space Division Switch
+
+Time Division Switching
+
+Softswitch
+
+Traditional Circuit Switching
+
+Packet Switching
+
+Core of Internet
+
+Switching Techniques
+
+Datagram Diagram
+
+Virtual Circuit Diagram
+
+Packet Size
+
+propagation delay
+
+transmission time
+
+node delay
+
+X.25
+
+Frame Relay
+
+ATM
+
 # 数学建模算法总结
 
 ### 蒙特卡洛算法
