@@ -1303,6 +1303,10 @@ select ... from ...
 
 distinct
 
+# 面试总结
+
+[](https://blog.csdn.net/diyinqian/article/details/72935272)
+
 # 计算机网络
 
 ## Circuit Switching and Packet Switching
