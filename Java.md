@@ -1391,6 +1391,215 @@ Routing Strategies - Adaptive Routing
 
 Classification of Adaptive Routing Startegies
 
+**Chapter 1**
+End system P28 端系统
+Modem P29 调制解调器（俗称：猫）
+Base station P29 基站
+Communication link P30 通信链路
+Physical media P30 物理介质
+Coaxial cable P30 同轴电缆
+Fiber optics P30 光纤
+Radio spectrum P30 射频频谱
+Transmission rate P30 传输速率
+Packets P30 （数据）包，或分组
+Routers P30 路由器
+Link-layer switches P30 链路层交换机/ˈleɪə US -ər/
+Path P30 路径
+ISP (Internet Service Provider) P30 网络服务提供商
+TCP (Transmission Control Protocol) P31 传输控制协议
+IP ( Internet Protocol) P31 网际协议
+Intranets P31 内网
+API (Application Programming Interface) P32 应用程序编程接口
+Network edge P35 网络边缘
+Access Networks P38 接入网
+Ethernet P42 以太网
+Network core P48 网络核心
+Circuit Switching P50 电路转换
+Packet Switching 分组交换
+FDM (frequency-division multiplexing) P50 频分多路复用
+TDM (time-division multiplexing) P50 时分多路复用
+Statistical Multiplexing 统计复用
+Store-and-forward 存储转发
+Queuing delays P53 排队延迟
+Transmission delay P60 传输延迟，或发送延迟
+ Propagation delay P60 传播延迟
+Throughput P59 吞吐量
+Internet backbone P57 骨干网
+Delay P59 延迟，或时延
+Loss P59 丢包
+Packet-Switched Network P59 分组交换网络
+Nodal processing delay P60 节点处理延迟
+End-to-end delay P66 端到端延迟
+Instantaneous throughput P68 瞬时吞吐量
+Network interface card P74 网络接口卡（即网卡）
+Message P75 消息，或报文
+Segment P75 （报文）段
+Datagram P75 数据报
+Frames P75 帧
+Packet sniffer P82 数据包监听器
+Protocol Stack 协议栈
+Peer entities 对等实体
+
+**Chapter 2 应用层**
+Server farm P110 服务器集群
+Infrastructure P110 基础设施，或基础架构
+Self-scalability P111 自扩展性
+Timing P114 实时性
+Bandwidth-sensitive applications P115带宽敏感应用
+Connection-oriented service P117 面向连接的服务
+Directory service P121 目录服务
+Base HTML file P122 基本HTML文件
+Stateless protocol P124 无状态协议
+RTT (round-trip time ) P126 往返时间
+Web proxy caches P128 网页代理缓存
+Status line P130 状态行
+Out-of-band P141 （频）带外（的）
+In-band P141 带内（的）
+User agents P144 用户代理
+Mail servers P144 邮件服务器
+Pull protocol P148 拉式协议
+Push protocol p148 推式协议
+Host aliasing P158 主机别名
+Canonical hostname P158 规范主机名
+Mail server aliasing P158 邮件服务器别名
+Load distribution P158 负载分配
+Top-level domain (TLD) servers P161 顶级域名服务器
+Authoritative DNS servers P161 权威域名服务器
+Iterative queries P168 迭代查询
+Resource records (RRs) P165 资源记录
+Overlay network P179 覆盖网
+Nonpersistent HTTP 非持久HTTP，或非坚持HTTP
+Persistent HTTP 持久性HTTP，或坚持的HTTP
+Peer-to-Peer (P2P) Network 对等网络
+Socket programming 套接字编程
+
+**Chapter 3 传输层**
+Multiplexing and demultiplexing P226 复用与分用
+Unidirectional data transfer P241 单向数据传送
+Finite-state machine (FSM) P242 有限状态机
+Positive acknowledgments P243 肯定确认
+Negative acknowledgments P243 否定确认
+Countdown timer P250 （倒数）计时器
+Cumulative acknowledgment P258 累积确认
+Receive buffer P269 接收缓冲区，或接收缓存
+Resource-management cells 资源管理单元
+Source (port number) 源端口号
+Destination (port number) 目的端口号
+Checksum 校验和
+Pipelined protocols 流水线（型）协议
+Go-back-N 回退N
+Selective Repeat 选择重传
+Timeout （定时器）超时
+Fast Retransmit 快速重传
+Flow Control 流量控制
+Three way handshake 三次握手
+sequence number 序列号（简写为seq）
+acknowledgement number 确认号（简写为ack；注意与大小的ACK不同）
+Congestion Control 拥塞控制
+additive increase, multiplicative decrease 加性增乘性减
+Slow Start 慢启动
+congestion-avoidance 拥塞避免
+fast recovery 快速恢复
+duplicate (ACK) 冗余（ACK）
+Random Early Detection 随机早期检测
+
+**Chapter 4 网络层**
+Forwarding table P338 转发表
+Virtual-circuit networks P343 虚电路网络
+Datagram networks P343 数据报网络
+Signaling message P346 信令报文
+Content Addressable Memory P354 内容可寻址存储器
+Crossbar switch P356 纵横开关
+Active queue management 主动队列管理
+Head-of-the-line (HOL) 队头
+Classless interdomain routing (CIDR) P371 无类域间路由
+Plug-and-play P376 即插即用
+Anycast P386 任播
+Interior gateway protocols P414 内部网关协议
+Routing information Protocol P414 路由信息协议（RIP）
+Open shortest Path First OSPF P414 开放最短路径优先
+Area border routers P419 区域边界路由器
+Sequence-number-controlled flooding P430 序列号控制的洪泛，或带序列号的受控洪泛
+Reverse path forwarding (RPF) P431 逆向路径转发
+Rendezvous point P433 汇聚点
+Longest prefix matching 最长前缀匹配
+Scheduling 调度
+Fragmentation 分片，或分段
+Fragment Offset 报文段偏移量
+Network Address Translation (NAT) 网络地址转换
+NAT traversal NAT穿越
+Multicast 组播，或多播
+Unicast 单播
+Tunneling 隧道技术
+Link-State Routing Algorithm 链路状态路由算法
+Distance Vector Routing Algorithm 距离向量路由算法
+Count to Infinity Problem 无穷计数问题
+Hierarchical Routing 分层路由
+autonomous systems 自治系统
+BGP (Border Gateway Protocol) 边界网关协议
+in-network duplication 网内复制
+broadcast storm 广播风暴
+spanning tree 生成树
+redundant packets 冗余数据包
+
+**Chapter 5 数据链路层，或链路层**
+Broadcast channels P461 广播信道
+Trailer fields P464 尾部字段
+Link access P464 链路接入，或链路访问
+Network interface card P466 网络接口卡（即网卡）
+Parity checks P469 奇偶校验
+Forward error correction (FEC) P471 前向纠错
+Cyclic Redundancy Check 循环冗余校验
+Polynomial code P472 多项式码（即CRC码）
+Multiple access P475 多路接入
+Random access protocols P477 随机接入协议
+CSMA/CD P484 带冲突检测的载波侦听多路访问
+CSMA/CA 带冲突避免的载波侦听多路访问
+Token passing protocol P487 令牌传递协议
+ARP P491 地址解析协议
+Preamble P497 前导（字段）
+Exponential backoff P502 指数回退，或指数退避
+Repeater P504 中继器
+Virtual-channel identifier P520 虚拟信道标识
+Cell-loss priority P520 信元丢失优先权
+Label-switched router P524 标签交换路由器
+Framing （封装）成帧
+error detection 误差检测，或检错
+Channel Partitioning 信道分割式（MAC协议）
+Taking turns MAC protocol 轮流式MAC协议
+Collision 冲突，或碰撞
+Time Slot 时隙
+Slotted ALOHA 时隙ALOHA
+Unslotted ALOHA 无时隙ALOHA
+Nonpersistent CSMA 非坚持CSMA
+1-persistent CSMA 1坚持CSMA
+p-persistent CSMA p坚持CSMA
+Token Ring 令牌环
+(Wireless) LAN （无线）局域网
+Hub 集线器
+Collision domain 冲突域
+Bridge 网桥
+
+# 推理思维
+
+### 三段论推理
+
+大前提
+
+小前提
+
+结论
+
+### 数学归纳法
+
+1 令n=1时 结论成立
+2 假设n=k时结论成立，证明n=k+1时结论也成立
+3 得证
+
+### 反证法
+
+假设A成立，并且由此导出矛盾，因此非A为真。
+
 # 数学建模算法总结
 
 ### 蒙特卡洛算法
